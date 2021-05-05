@@ -13,7 +13,7 @@
             "properties": {
                 "name": "Rotunda",
                 "address": "1826  University Ave",
-                "category": "Office"
+                "category": "Historical"
             }
         },
         {
@@ -101,7 +101,7 @@
                 ]
             },
             "properties": {
-                "name": "Pavilion Vii/colonnade Club",
+                "name": "Pavilion VII/Colonnade Club",
                 "address": "7  West Pav",
                 "category": "Support"
             }
@@ -163,7 +163,7 @@
             "properties": {
                 "name": "Randall Hall",
                 "address": "130  Hospital Dr",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -178,7 +178,7 @@
             "properties": {
                 "name": "Garrett Hall",
                 "address": "235  McCormick Rd",
-                "category": "Office"
+                "category": "Batten School"
             }
         },
         {
@@ -193,7 +193,7 @@
             "properties": {
                 "name": "Varsity Hall",
                 "address": "136  Hospital Dr",
-                "category": "Office"
+                "category": "Historical"
             }
         },
         {
@@ -208,7 +208,7 @@
             "properties": {
                 "name": "Robertson Hall",
                 "address": "125  Ruppel Dr",
-                "category": "Office"
+                "category": "McIntire School of Commerce"
             }
         },
         {
@@ -223,7 +223,7 @@
             "properties": {
                 "name": "Rouss Hall",
                 "address": "40  South Lawn",
-                "category": "Classroom"
+                "category": "McIntire School of Commerce"
             }
         },
         {
@@ -238,7 +238,7 @@
             "properties": {
                 "name": "Old Cabell Hall",
                 "address": "30  South Lawn",
-                "category": "Classroom"
+                "category": "Music"
             }
         },
         {
@@ -253,7 +253,7 @@
             "properties": {
                 "name": "New Cabell Hall",
                 "address": "1605  Jefferson Park Ave",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -268,7 +268,7 @@
             "properties": {
                 "name": "Cocke Hall",
                 "address": "20  South Lawn",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -283,7 +283,7 @@
             "properties": {
                 "name": "Amphitheater",
                 "address": "93  Amphitheater Way",
-                "category": "Support"
+                "category": "Historical"
             }
         },
         {
@@ -298,7 +298,7 @@
             "properties": {
                 "name": "University Chapel",
                 "address": "145  McCormick Rd",
-                "category": "Public Service"
+                "category": "Historical"
             }
         },
         {
@@ -313,7 +313,7 @@
             "properties": {
                 "name": "Brooks Hall",
                 "address": "1702  University Ave",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -328,7 +328,7 @@
             "properties": {
                 "name": "Minor Hall",
                 "address": "102  Amphitheater Way",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -343,7 +343,7 @@
             "properties": {
                 "name": "Maury Hall",
                 "address": "128  Amphitheater Way",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -358,7 +358,7 @@
             "properties": {
                 "name": "Halsey Hall",
                 "address": "148  Amphitheater Way",
-                "category": "Research"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -373,7 +373,7 @@
             "properties": {
                 "name": "Clark Hall",
                 "address": "291  McCormick Rd",
-                "category": "Research"
+                "category": "Libraries"
             }
         },
         {
@@ -388,7 +388,7 @@
             "properties": {
                 "name": "Kerchof Hall",
                 "address": "141  Cabell Dr",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -448,7 +448,7 @@
             "properties": {
                 "name": "Alderman Library",
                 "address": "160  McCormick Rd",
-                "category": "Library"
+                "category": "Libraries"
             }
         },
         {
@@ -463,7 +463,7 @@
             "properties": {
                 "name": "Monroe Hall",
                 "address": "248  McCormick Rd",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -553,7 +553,7 @@
             "properties": {
                 "name": "Bryan Hall",
                 "address": "201  Cabell Dr",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -568,7 +568,7 @@
             "properties": {
                 "name": "Mcleod Hall",
                 "address": "202  Jeannette Lancaster Way SW",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -583,7 +583,7 @@
             "properties": {
                 "name": "Claude Moore Nursing Education Building",
                 "address": "225  Jeannette Lancaster Way",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -598,7 +598,7 @@
             "properties": {
                 "name": "Harrison Institute And Small Special Collections Library",
                 "address": "170  McCormick Rd",
-                "category": "Library"
+                "category": "Libraries"
             }
         },
         {
@@ -613,7 +613,7 @@
             "properties": {
                 "name": "Newcomb Hall",
                 "address": "180  McCormick Rd",
-                "category": "Support"
+                "category": "Dining"
             }
         },
         {
@@ -641,9 +641,9 @@
                 ]
             },
             "properties": {
-                "name": "Bookstore/central Grounds Parking",
+                "name": "Bookstore/Central Grounds Parking",
                 "address": "400  Emmet St S",
-                "category": "Support"
+                "category": "Parking"
             }
         },
         {
@@ -658,7 +658,7 @@
             "properties": {
                 "name": "Clemons Library",
                 "address": "164  McCormick Rd",
-                "category": "Library"
+                "category": "Libraries"
             }
         },
         {
@@ -673,7 +673,7 @@
             "properties": {
                 "name": "Elson Student Health Center",
                 "address": "400  Brandon Ave",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -688,7 +688,7 @@
             "properties": {
                 "name": "Wilson Hall",
                 "address": "115  Ruppel Dr",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -718,7 +718,7 @@
             "properties": {
                 "name": "Olsson Hall",
                 "address": "151  Engineer's Way",
-                "category": "Office"
+                "category": "Engineering School"
             }
         },
         {
@@ -733,7 +733,7 @@
             "properties": {
                 "name": "Albert H Small Building",
                 "address": "156  Engineer's Way",
-                "category": "Office"
+                "category": "Engineering School"
             }
         },
         {
@@ -748,7 +748,7 @@
             "properties": {
                 "name": "Thornton Hall",
                 "address": "351  McCormick Rd",
-                "category": "Office"
+                "category": "Engineering School"
             }
         },
         {
@@ -808,7 +808,7 @@
             "properties": {
                 "name": "Gilmer Hall",
                 "address": "485  McCormick Rd",
-                "category": "Research"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -823,7 +823,7 @@
             "properties": {
                 "name": "Rice Hall",
                 "address": "85  Engineers Way",
-                "category": "Research"
+                "category": "Engineering School"
             }
         },
         {
@@ -838,7 +838,7 @@
             "properties": {
                 "name": "Physical And Life Sciences Building",
                 "address": "90  Geldard Driv",
-                "category": "Research"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -881,7 +881,7 @@
                 ]
             },
             "properties": {
-                "name": "Physics/j Beams Lab",
+                "name": "Physics/J Beams Lab",
                 "address": "382  McCormick Rd",
                 "category": "Research"
             }
@@ -913,7 +913,7 @@
             "properties": {
                 "name": "Lambeth House",
                 "address": "1914  Thomson Rd",
-                "category": "Office"
+                "category": "Housing"
             }
         },
         {
@@ -958,7 +958,7 @@
             "properties": {
                 "name": "Leake Building",
                 "address": "1450  LEAKE DR",
-                "category": "Office"
+                "category": "Facilities"
             }
         },
         {
@@ -1033,7 +1033,7 @@
             "properties": {
                 "name": "Skipwith Hall",
                 "address": "1490  LEAKE DR",
-                "category": "Office"
+                "category": "Facilities"
             }
         },
         {
@@ -1108,7 +1108,7 @@
             "properties": {
                 "name": "Astronomy Building",
                 "address": "530  McCormick Rd",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -1138,7 +1138,7 @@
             "properties": {
                 "name": "Stone Hall (nrao)",
                 "address": "520  Edgemont Rd",
-                "category": "Office"
+                "category": "Research"
             }
         },
         {
@@ -1168,7 +1168,7 @@
             "properties": {
                 "name": "Chemistry Building",
                 "address": "409  McCormick Rd",
-                "category": "Research"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -1198,7 +1198,7 @@
             "properties": {
                 "name": "Mechanical Engineering",
                 "address": "130  Chemistry Dr",
-                "category": "Classroom"
+                "category": "Engineering School"
             }
         },
         {
@@ -1213,7 +1213,7 @@
             "properties": {
                 "name": "Ruffner Hall",
                 "address": "405  Emmet St S",
-                "category": "Office"
+                "category": "School of Education"
             }
         },
         {
@@ -1226,7 +1226,7 @@
                 ]
             },
             "properties": {
-                "name": "Shelburne Hall/highway Research",
+                "name": "Shelburne Hall/Highway Research",
                 "address": "530  Edgemont Rd",
                 "category": "Office"
             }
@@ -1258,7 +1258,7 @@
             "properties": {
                 "name": "Bavaro Hall",
                 "address": "417  Emmet St S",
-                "category": "Office"
+                "category": "School of Education"
             }
         },
         {
@@ -1273,7 +1273,7 @@
             "properties": {
                 "name": "Wilsdorf Hall",
                 "address": "395  McCormick Rd",
-                "category": "Research"
+                "category": "Engineering School"
             }
         },
         {
@@ -1333,7 +1333,7 @@
             "properties": {
                 "name": "Lacy Hall",
                 "address": "510  Edgemont Rd",
-                "category": "Support"
+                "category": "Engineering School"
             }
         },
         {
@@ -1348,7 +1348,7 @@
             "properties": {
                 "name": "Student Activities Building",
                 "address": "800  Alderman Rd",
-                "category": "Support"
+                "category": "Office"
             }
         },
         {
@@ -1363,7 +1363,7 @@
             "properties": {
                 "name": "Stadium Parking Garage",
                 "address": "1813  Stadium Rd",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -1603,7 +1603,7 @@
             "properties": {
                 "name": "Emmet/ivy Garage",
                 "address": "123  Emmet St N",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -1618,7 +1618,7 @@
             "properties": {
                 "name": "Fayerweather Hall",
                 "address": "151  Rugby Rd",
-                "category": "Office"
+                "category": "College of Arts and Sciences"
             }
         },
         {
@@ -1678,7 +1678,7 @@
             "properties": {
                 "name": "Campbell Hall",
                 "address": "110  Bayly Dr",
-                "category": "Classroom"
+                "category": "Architecture"
             }
         },
         {
@@ -1693,7 +1693,7 @@
             "properties": {
                 "name": "Peyton House",
                 "address": "164  Rugby Rd",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -1708,7 +1708,7 @@
             "properties": {
                 "name": "Ruffin Hall",
                 "address": "179  Culbreth Rd",
-                "category": "Office"
+                "category": "Arts"
             }
         },
         {
@@ -1738,7 +1738,7 @@
             "properties": {
                 "name": "Drama Education Building",
                 "address": "109  Culbreth Rd",
-                "category": "Support"
+                "category": "Arts"
             }
         },
         {
@@ -1783,7 +1783,7 @@
             "properties": {
                 "name": "Culbreth Road Garage",
                 "address": "130  Culbreth Rd",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -1813,7 +1813,7 @@
             "properties": {
                 "name": "Hunter Smith Band Building",
                 "address": "180  Culbreth Rd",
-                "category": "Athletic"
+                "category": "Music"
             }
         },
         {
@@ -1828,7 +1828,7 @@
             "properties": {
                 "name": "Drama Education Building Addition",
                 "address": "109  Culbreth Rd",
-                "category": "Public Service"
+                "category": "Arts"
             }
         },
         {
@@ -1873,7 +1873,7 @@
             "properties": {
                 "name": "Clay Hall",
                 "address": "580  Massie Rd",
-                "category": "Office"
+                "category": "Law"
             }
         },
         {
@@ -1886,9 +1886,9 @@
                 ]
             },
             "properties": {
-                "name": "Withers-brown Hall",
+                "name": "Withers-Brown Hall",
                 "address": "580  Massie Rd",
-                "category": "Library"
+                "category": "Law"
             }
         },
         {
@@ -1903,7 +1903,7 @@
             "properties": {
                 "name": "Slaughter Hall",
                 "address": "570  Massie Rd",
-                "category": "Office"
+                "category": "Law"
             }
         },
         {
@@ -1918,7 +1918,7 @@
             "properties": {
                 "name": "Hunton And Williams Hall",
                 "address": "580  Massie Rd",
-                "category": "Library"
+                "category": "Law"
             }
         },
         {
@@ -1978,7 +1978,7 @@
             "properties": {
                 "name": "Saunders Hall",
                 "address": "100  Darden Blvd",
-                "category": "Office"
+                "category": "Darden School of Business"
             }
         },
         {
@@ -1993,7 +1993,7 @@
             "properties": {
                 "name": "Darden Classroom",
                 "address": "110  Darden Blvd",
-                "category": "Classroom"
+                "category": "Darden School of Business"
             }
         },
         {
@@ -2008,7 +2008,7 @@
             "properties": {
                 "name": "Darden Faculty",
                 "address": "90  Darden Blvd",
-                "category": "Office"
+                "category": "Darden School of Business"
             }
         },
         {
@@ -2023,7 +2023,7 @@
             "properties": {
                 "name": "Abbott Center",
                 "address": "120  Darden Blvd",
-                "category": "Office"
+                "category": "Dining"
             }
         },
         {
@@ -2038,7 +2038,7 @@
             "properties": {
                 "name": "Darden Library",
                 "address": "80  Darden Blvd",
-                "category": "Library"
+                "category": "Libraries"
             }
         },
         {
@@ -2053,7 +2053,7 @@
             "properties": {
                 "name": "Darden Parking Garage",
                 "address": "130  Darden Blvd",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -2203,7 +2203,7 @@
             "properties": {
                 "name": "Ivy Stacks",
                 "address": "2450  Old Ivy Rd",
-                "category": "Library"
+                "category": "Libraries"
             }
         },
         {
@@ -2293,7 +2293,7 @@
             "properties": {
                 "name": "Faulkner House",
                 "address": "2201  Old Ivy Rd",
-                "category": "Office"
+                "category": "Housing"
             }
         },
         {
@@ -2518,7 +2518,7 @@
             "properties": {
                 "name": "Pinn Hall",
                 "address": "1340  Jefferson Park Ave",
-                "category": "Research"
+                "category": "Medical"
             }
         },
         {
@@ -2563,7 +2563,7 @@
             "properties": {
                 "name": "Claude Moore Medical Education Building",
                 "address": "200  Jeanette Lancaster Way",
-                "category": "Research"
+                "category": "Medical"
             }
         },
         {
@@ -2578,7 +2578,7 @@
             "properties": {
                 "name": "East Parking Garage",
                 "address": "1210  Lee St",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -2593,7 +2593,7 @@
             "properties": {
                 "name": "11th Street Parking Garage",
                 "address": "117  11th St SW",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -2608,7 +2608,7 @@
             "properties": {
                 "name": "University Hospital",
                 "address": "1215  Lee St",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -2623,7 +2623,7 @@
             "properties": {
                 "name": "Hospital Link",
                 "address": "1335  Lee St",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2638,7 +2638,7 @@
             "properties": {
                 "name": "South Parking Garage",
                 "address": "380  Crispell Dr",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -2713,7 +2713,7 @@
             "properties": {
                 "name": "Primary Care Center Annex",
                 "address": "412  Lane Road",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -2758,7 +2758,7 @@
             "properties": {
                 "name": "Davis Wing",
                 "address": "101  Hospital Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2773,7 +2773,7 @@
             "properties": {
                 "name": "Barringer Wing",
                 "address": "101  Hospital Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2788,7 +2788,7 @@
             "properties": {
                 "name": "Mcintire Wing",
                 "address": "101  Hospital Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2803,7 +2803,7 @@
             "properties": {
                 "name": "Clinical Department Wing",
                 "address": "81  Hospital Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2818,7 +2818,7 @@
             "properties": {
                 "name": "Central Wing",
                 "address": "81  Hospital Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2833,7 +2833,7 @@
             "properties": {
                 "name": "North Wing",
                 "address": "81  Hospital Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2863,7 +2863,7 @@
             "properties": {
                 "name": "Steele Wing",
                 "address": "21  Hospital Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -2878,7 +2878,7 @@
             "properties": {
                 "name": "Medical School Bldg",
                 "address": "21  Hospital Dr",
-                "category": "Research"
+                "category": "Medical"
             }
         },
         {
@@ -2908,7 +2908,7 @@
             "properties": {
                 "name": "X-ray Wing",
                 "address": "1335  Lee St",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -2953,7 +2953,7 @@
             "properties": {
                 "name": "Cobb Hall",
                 "address": "135  Hospital Dr",
-                "category": "Research"
+                "category": "Medical"
             }
         },
         {
@@ -2968,7 +2968,7 @@
             "properties": {
                 "name": "Mckim Hall",
                 "address": "1415  Jefferson Park Ave",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -3148,7 +3148,7 @@
             "properties": {
                 "name": "Moser Radiation Therapy Center",
                 "address": "2871  Ivy Rd",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -3163,7 +3163,7 @@
             "properties": {
                 "name": "Fontaine Medical Office Building 2",
                 "address": "545  Ray C. Hunt Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -3193,7 +3193,7 @@
             "properties": {
                 "name": "Stacey Hall",
                 "address": "1105  Main St W",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -3223,7 +3223,7 @@
             "properties": {
                 "name": "Battle Building At The Uva Children's Hospital",
                 "address": "1204  W. MAIN ST",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -3238,7 +3238,7 @@
             "properties": {
                 "name": "Jefferson Park Medical Office Building",
                 "address": "1222  Jefferson Park Ave",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -3326,7 +3326,7 @@
                 ]
             },
             "properties": {
-                "name": "Pavilion Iii",
+                "name": "Pavilion III",
                 "address": "3  West Pav",
                 "category": "Housing"
             }
@@ -3371,7 +3371,7 @@
                 ]
             },
             "properties": {
-                "name": "Pavilion Ix",
+                "name": "Pavilion IX",
                 "address": "9  West Pav",
                 "category": "Housing"
             }
@@ -3416,7 +3416,7 @@
                 ]
             },
             "properties": {
-                "name": "Pavilion Ii",
+                "name": "Pavilion II",
                 "address": "2  East Pav",
                 "category": "Housing"
             }
@@ -3446,7 +3446,7 @@
                 ]
             },
             "properties": {
-                "name": "Pavilion Iv",
+                "name": "Pavilion IV",
                 "address": "4  East Pav",
                 "category": "Housing"
             }
@@ -3461,7 +3461,7 @@
                 ]
             },
             "properties": {
-                "name": "Pavilion Vi",
+                "name": "Pavilion VI",
                 "address": "6  East Pav",
                 "category": "Housing"
             }
@@ -3476,7 +3476,7 @@
                 ]
             },
             "properties": {
-                "name": "Pavilion Viii",
+                "name": "Pavilion VIII",
                 "address": "8  East Pav",
                 "category": "Housing"
             }
@@ -3821,7 +3821,7 @@
                 ]
             },
             "properties": {
-                "name": "Barringer Mansion/french House",
+                "name": "Barringer Mansion/French House",
                 "address": "1404  Jefferson Park Ave",
                 "category": "Housing"
             }
@@ -3913,7 +3913,7 @@
             "properties": {
                 "name": "Montebello Garage",
                 "address": "1700  Stadium Rd",
-                "category": "Storage"
+                "category": "Parking"
             }
         },
         {
@@ -4511,7 +4511,7 @@
                 ]
             },
             "properties": {
-                "name": "Balz-dobie House",
+                "name": "Balz-Dobie House",
                 "address": "571  McCormick Rd",
                 "category": "Housing"
             }
@@ -4526,7 +4526,7 @@
                 ]
             },
             "properties": {
-                "name": "Watson-webb House",
+                "name": "Watson-Webb House",
                 "address": "561  McCormick Rd",
                 "category": "Housing"
             }
@@ -4556,7 +4556,7 @@
                 ]
             },
             "properties": {
-                "name": "Lile-maupin House",
+                "name": "Lile-Maupin House",
                 "address": "555  McCormick Rd",
                 "category": "Housing"
             }
@@ -4571,7 +4571,7 @@
                 ]
             },
             "properties": {
-                "name": "Tuttle-dunnington House",
+                "name": "Tuttle-Dunnington House",
                 "address": "565  McCormick Rd",
                 "category": "Housing"
             }
@@ -6358,7 +6358,7 @@
             "properties": {
                 "name": "Uva Outpatient Surgery Center",
                 "address": "500  Monroe Lane",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -6388,7 +6388,7 @@
             "properties": {
                 "name": "University Of Virginia Transitional Care Hospital",
                 "address": "2965  Ivy Rd",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -6418,7 +6418,7 @@
             "properties": {
                 "name": "Outpatient Surgery Center Mobile Ors",
                 "address": "500  Monroe Lane",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -6433,7 +6433,7 @@
             "properties": {
                 "name": "Fontaine Medical Office Building 1",
                 "address": "415  Ray C. Hunt Dr",
-                "category": "Office"
+                "category": "Medical"
             }
         },
         {
@@ -6658,7 +6658,7 @@
             "properties": {
                 "name": "Davenport Klockner Lannigan Ticket Booth",
                 "address": "450  COPELEY RD",
-                "category": "Support"
+                "category": "Athletic"
             }
         },
         {
@@ -6748,7 +6748,7 @@
             "properties": {
                 "name": "Arena Parking Garage",
                 "address": "305  Massie Rd",
-                "category": "Parking Garage"
+                "category": "Parking"
             }
         },
         {
@@ -7243,7 +7243,7 @@
             "properties": {
                 "name": "Orange Medical Office Building",
                 "address": "661  University Ln",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         },
         {
@@ -7256,9 +7256,9 @@
                 ]
             },
             "properties": {
-                "name": "Uva Medical Park Spring Creek",
+                "name": "UVA Medical Park Spring Creek",
                 "address": "1015  SPRING CREEK PKY",
-                "category": "Patient Care"
+                "category": "Medical"
             }
         }
     ]
