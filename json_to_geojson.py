@@ -1,5 +1,5 @@
 #! usr/bin/env python
-
+# https://gis.stackexchange.com/questions/73756/is-it-possible-to-convert-regular-json-to-geojson
 from sys import argv
 from os.path import exists
 import simplejson as json 
