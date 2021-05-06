@@ -8,7 +8,7 @@ import string
 
 script, in_file, out_file = argv
 
-gmaps = googlemaps.Client(key='AIzaSyClPQsYyGZqDSaaMSd0OkzO9riSui_h0ok')
+gmaps = googlemaps.Client(key=) #must insert own google maps API key
 data = json.load(open(in_file))
 geojson = {
     "type": "FeatureCollection",
